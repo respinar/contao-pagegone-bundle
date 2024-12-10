@@ -1,0 +1,8 @@
+services:
+    _defaults:
+        autoconfigure: true
+        autowire: true
+
+    Respinar\ContaoPageGoneBundle\:
+        resource: ../src/
+        exclude: ../src/ContaoManager/

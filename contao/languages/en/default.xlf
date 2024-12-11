@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="default">
+        <body>
+            <trans-unit id="PTY.error_410.0">
+                <source>410 Gone</source>
+            </trans-unit>
+            <trans-unit id="PTY.error_410.1">
+                <source>A page that returns an HTTP 410 status code to indicate the resource is permanently gone.</source>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
